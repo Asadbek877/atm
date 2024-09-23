@@ -1,0 +1,26 @@
+body{
+    width: 1500px;
+    height: 1000px;
+    background-color: rgb(50, 136, 223);
+}
+
+img{
+    width: 150px;
+}
+
+svg{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 255);
+    margin-left: 600px;
+    width: 350px;
+    height: 250px;
+    border-radius: 180px;
+}
+
+h1{
+    margin-left: 60px;
+    font-size: 35px;
+    padding-top: 80px;
+    text-align: center;
+    color: blue;
+}

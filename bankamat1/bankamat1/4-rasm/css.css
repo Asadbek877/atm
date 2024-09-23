@@ -1,0 +1,45 @@
+body{
+    width: 1500px;
+    height: 1000px;
+    background-color: rgb(120, 198, 250);
+}
+
+input{
+    width: 170px;
+    height: 90px;
+    border-radius: 15px;
+    gap: 50px;
+    border: 15px solid  rgb(58, 112, 237);
+    color: rgb(255, 255, 255);
+    background-color: rgb(58, 112, 237);
+}
+
+.btns{
+    display: flex;
+}
+
+.text{
+    display: flex;
+    
+}
+
+.img img{
+    width: 150px;
+    height: 150px;
+    margin-left: 150px;
+}
+.textt{
+    text-align: center;
+}
+
+
+.btns1{
+
+    padding-top: 300px;
+    margin-left: -5px;
+
+}
+.btns2{
+    margin-top: 300px;
+    margin-left: 1255px;
+}
